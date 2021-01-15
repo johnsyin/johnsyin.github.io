@@ -1,5 +1,11 @@
-<a id="expand_comments" href="#" onclick="document.getElementById('disqus_thread').style.display = 'block';document.getElementById('expand_comments').style.display = 'none';">Show comments ()</a>
-<a display="none" id="collapse_comments" href="#" onclick="document.getElementById('disqus_thread').style.display = 'none';document.getElementById('collapse_comments').style.display = 'blocks';">Hide comments ()</a>
+<a id="expand_comments" href="#" onclick="
+document.getElementById('disqus_thread').style.display = 'block';
+document.getElementById('expand_comments').style.display = 'none';
+document.getElementById('collapse_comments').style.display = 'block';">Show comments ()</a>
+<a display="none" id="collapse_comments" href="#" onclick="
+document.getElementById('disqus_thread').style.display = 'none';
+document.getElementById('expand_comments').style.display = 'block';
+document.getElementById('collapse_comments').style.display = 'none';">Hide comments ()</a>
 
 {% if site.disqus %}
 <div class="comments">
