@@ -15,6 +15,8 @@ Who I am not:
 - Someone who reads/writes a lot
 - Someone who writes perfect English
 
+### What this place is for
+
 I love spending my leisure time to work on random projects.  
 
 While they are not necessary data science, they do mostly solve real world ~~my~~ problems ~~funny~~ with technology.  
