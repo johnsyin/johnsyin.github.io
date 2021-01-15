@@ -1,15 +1,15 @@
 <a id="expand_comments" href="#" onclick="
-document.getElementById('comments').style.display = 'block';
+document.getElementById('disqus_thread').style.display = 'block';
 document.getElementById('expand_comments').style.display = 'none';
 document.getElementById('collapse_comments').style.display = 'block';">Show comments ()</a>
 <a style="display:none;" id="collapse_comments" href="#" onclick="
-document.getElementById('comments').style.display = 'none';
+document.getElementById('disqus_thread').style.display = 'none';
 document.getElementById('expand_comments').style.display = 'block';
-document.getElementById('collapse_comments').style.display = 'none';">Hide comments ()</a>
+document.getElementById('collapse_comments').style.display = 'none';">Hide comments</a>
 
 {% if site.disqus %}
-<div class="comments" style="display:none;">
-<div id="disqus_thread"></div>
+<div class="comments">
+<div id="disqus_thread" style="display:none;"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
