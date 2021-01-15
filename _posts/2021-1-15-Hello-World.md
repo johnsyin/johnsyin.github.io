@@ -13,4 +13,4 @@ _I have even been looking for ways to do "lifelogging" in a systematic way in lo
   
 I will be mainly recording my personal projects about data/technology here (will it be part of my portfolio/freelancer profile? Hopefully).  
   
-I probably will write awful English or do terrible projects, but I honestly don't care.
+I probably will write awful English or do terrible projects, but that is not gonna stop me from starting this blog.
