@@ -20,16 +20,16 @@ avatar: https://avatars1.githubusercontent.com/u/23045969?s=400&u=eadccaf7f2495e
 footer-links:
   dribbble:
   email: johnsyin97@gmail.com
-  facebook: 
+  facebook: # ang.j.syin
   flickr:
   github: johnsyin
-  instagram: johnsyin1022
+  instagram: # johnsyin1022
   linkedin: john-syin-ang
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCI1fEad2y4TiRXdA_ymc4tQ # channel/<your_long_string> or user/<user-name>
+  stackoverflow: users/5744891/ang-john-syin # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/UCI1fEad2y4TiRXdA_ymc4tQ # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
