@@ -6,14 +6,14 @@ permalink: /about/
 
 Hi! Checkout who I am:
 - A Data Scientist (full-time)
-- A AI researcher (part-time)
+- An AI researcher (part-time)
 - A Game Dev (hobbyist)
 - A night owl
-- Someone that likes bullet points a lot  
+- Someone who likes bullet points a lot  
   
 Who I am not:
-- Someone that reads/writes a lot
-- Someone that writes perfect English
+- Someone who reads/writes a lot
+- Someone who writes perfect English
 
 I love spending my leisure time to work on random projects.  
 
