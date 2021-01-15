@@ -10,6 +10,7 @@ I have always been thinking about recording my life, projects, etc.
   
 _I have even been looking for ways to do "lifelogging" in a systematic way in lowest cost (may be my future project)_
   
+  
 I will be mainly recording my personal projects about data/technology here (will it be part of my portfolio/freelancer profile? Hopefully).  
   
 I probably will write awful English or do terrible projects, but I honestly don't care.
