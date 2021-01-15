@@ -8,7 +8,7 @@ Hi! I am John. I am a person who loves writing/reading concise texts.  To read m
 ### What is this place for?  
 I have always been thinking about recording my life, projects, etc.   
   
-_I have even been looking for ways to do "lifelogging" in a systematic way in lowest cost (may be my future project)_
+_I have even been looking for ways to do "lifelogging" in a systematic way with the lowest cost (may be my future project)_
   
   
 I will be mainly recording my personal projects about data/technology here (will it be part of my portfolio/freelancer profile? Hopefully).  
