@@ -4,7 +4,7 @@ title: Hello World
 ---
 
 ### About me
-Hi! I am John. I am a person who loves writing/reading concise texts.  To read more about me, click [here](about/).
+Hi! I am John. I am a person who loves writing/reading concise texts.  To read more about me, click [here](../about/).
 .
   
 ### What is this place for?  
