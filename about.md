@@ -17,8 +17,8 @@ Who I am not:
 
 I love spending my leisure time to work on random projects.  
 
-While they are not necessary data science, they do mostly solve real(my) world(funny) problems with technology.  
-  
+While they are not necessary data science, they do mostly solve real ~~my~~ world ~~funny~~ problems with technology.  
+
 In 2021, I decided to start writing them down in this place.
 
 ### Contact me
