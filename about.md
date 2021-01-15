@@ -8,8 +8,7 @@ Hi! Checkout who I am:
 - A Data Scientist (full-time)
 - An AI researcher (part-time)
 - A Game Dev (hobbyist)
-- A cheapskate who always aim for lowest cost in a project
-- A night owl
+- A cheapskate who always aim for 0 cost in a project
 - Someone who likes bullet points a lot  
 - Someone who enjoy reading concise texts  
   
