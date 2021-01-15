@@ -12,4 +12,4 @@ I have always been thinking about recording my life, projects, etc. and I have b
   
 This place, will be mainly recording my personal projects about data/technology here (will it be part of my portfolio/freelancer profile? Hopefully).  
   
-I probably will write awful English or done terrible projects, but I honestly don't care.
+I probably will write awful English or do terrible projects, but I honestly don't care.
