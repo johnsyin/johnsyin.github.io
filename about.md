@@ -31,4 +31,4 @@ Don't hesitate to contact me if you want to
 1. Talk about any content that I have shared
 2. Recommend me for a role/project
   
-[johnsyin97@gmail.com](mailto:email@domain.com)
+[johnsyin97@gmail.com](mailto:johnsyin97@gmail.com)
