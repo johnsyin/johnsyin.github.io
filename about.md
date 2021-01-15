@@ -23,5 +23,5 @@ In 2021, I decided to start writing them down in this place.
 
 ### Contact me
 
-Don't hesitate to reach me out if you want to talk about any content that I have shared.
+Don't hesitate to reach me out if you want to talk about any content that I have shared or shared any job opportunity:
 [johnsyin97@gmail.com](mailto:email@domain.com)
