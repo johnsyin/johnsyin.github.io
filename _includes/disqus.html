@@ -1,8 +1,11 @@
-<a id="expand_comments" href="#" onclick="
+{% if site.disqus %}
+<script id="dsq-count-scr" src="//{ site.disqus }.disqus.com/count.js" async></script>
+{% endif %}
+<a id="expand_comments" href="{{ content.absolute_url }}#disqus_thread" onclick="
 document.getElementById('disqus_thread').style.display = 'block';
 document.getElementById('expand_comments').style.display = 'none';
 document.getElementById('collapse_comments').style.display = 'block';">Show comments ()</a>
-<a style="display:none;" id="collapse_comments" href="#" onclick="
+<a style="display:none;" id="collapse_comments" href="#/" onclick="
 document.getElementById('disqus_thread').style.display = 'none';
 document.getElementById('expand_comments').style.display = 'block';
 document.getElementById('collapse_comments').style.display = 'none';">Hide comments</a>
@@ -14,8 +17,8 @@ document.getElementById('collapse_comments').style.display = 'none';">Hide comme
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    var url = '{{ window.location.href }}';
-    var identifier = '{{ window.location.pathname }}';
+    var url = window.location.href;
+    var identifier = window.location.pathname;
 
     var disqus_config = function () {
     // this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
