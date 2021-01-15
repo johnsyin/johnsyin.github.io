@@ -23,5 +23,8 @@ In 2021, I decided to start writing them down in this place.
 
 ### Contact me
 
-Don't hesitate to reach me out if you want to talk about any content that I have shared or shared any job opportunity:
+Don't hesitate to reach me out if you want to 
+1. Talk about any content that I have shared
+2. Share any job opportunity
+  
 [johnsyin97@gmail.com](mailto:email@domain.com)
