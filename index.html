@@ -17,10 +17,6 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 
-	  <div class="date">
-	    {{ post.page.date | date: "%B %e, %Y" }}
-	  </div>
-
 		<!-- <span class="reading-time" title="Estimated read time"> -->
 		  {% assign words = post.content | number_of_words %}
 		  {% if words < 360 %}
