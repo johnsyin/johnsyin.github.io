@@ -9,11 +9,11 @@ Back in March 2020 (yes, during MCO 1.0), I have created my own finance tracking
 # My Inspiration
 The idea came from 
 1. My inspiration from work
-2. The inability to track my overall finance status, my personal balance sheet and my net worth change overtime with the existing tracking app.
-3. The inflexibility for the existing tracking app to query/create charts that you want from your data.  
+2. The inability of the existing tracking app to track my overall finance status, my personal balance sheet and my net worth change overtime with the existing tracking app.
+3. The inflexibility of the existing tracking app to query/create charts that you want from your data.  
   
 ## 1) My inspiration from work
-It's no surprise that tools like Google Sheets/Google Form are both online tools that allows you to get and store data without hosting anything (and without being tech savvy). But the main inspiration comes from noticing that the same series of tool for visualization by Google is also both free-to-use and online solution, not to mention their integration with Google Sheet is so easy.  
+It's no surprise that tools like Google Sheets/Google Form are both online tools that allows you to get and store data without hosting anything (and without being tech savvy). But the main inspiration comes from noticing that the same series of tool for visualization by Google, Data Studio is also free-to-use and hosting-free, not to mention their integration with Google Sheet is so easy.  
   
 ## 2) The inability to track my overall finance status
 This might be abit niche, but for a person like me who likes to track and record things in my life, I would want to know my investment return over years, my net worth change more than just tracking expenses. That said, there is no single app that already work like this.  
@@ -29,7 +29,7 @@ This is more self-explanatory, for anyone that knows excel/data studio, the app 
 ## A) The form  
   
 I have put all purpose in a form for easier navigation, in case I get deposited my salary or I spent some money or I bought/sold some stocks, I record them down from this one form.  
-- For salary, I need to record which bank and how much I have get it.
+- For incomes, I need to record which bank and how much I have get it.
 - For expenditures, I can record the type of expenditure and fill remarks optionally.
 - For stocks, I need to record purchase price and number of units.
 - For transferring money between assets, I have to record the amount and the involved amount.
