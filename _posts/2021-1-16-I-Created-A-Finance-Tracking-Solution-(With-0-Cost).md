@@ -8,7 +8,7 @@ Back in March 2020 (yes, during MCO 1.0), I have created my own finance tracking
 ----
 # My Inspiration
 The idea came from 
-1. My inspiration from work
+1. My inspiration from work.
 2. The inability of the existing tracking app to track my overall finance status, my personal balance sheet and my net worth change overtime with the existing tracking app.
 3. The inflexibility of the existing tracking app to query/create charts that you want from your data.  
   
@@ -84,14 +84,14 @@ I have created a 2 pages dashboard to keep track on 2 things:
 1. My assets
 2. My expenditure vs savings  
   
-I will just show a screenshot with mocked data for demo purpose:  
+I will just show 2 screenshots with mocked data for demo purpose:  
   
 ![asset]({{ site.baseurl }}/images/2021-1-16-asset.png "asset")  
   
 ![expenditure]({{ site.baseurl }}/images/2021-1-16-expenditure.png "expenditure")  
   
-There you have it! I've had lots of fun making it and it been really useful to myself and my girlfriend, there were also lots of pain dealing with sheets formula.  
+That's it! I've had lots of fun making it and it been really useful to myself and my girlfriend, there were also lots of pain dealing with sheets formula.  
   
 ----
 # What's next?
-I do hope that I am able to share this tool with you, however, the whole app is setup manually and pretty inconvenient to replicate for another user. Recently, I have been getting more exposure on stuff like Infra-as-a-code for dev-ops to replicate environment robustly and quickly, I will propably explore more on the possibility on creating a pipeline that can automatically authenticate and create essential resource for the app for one google account in the future.
+I do hope that I am able to share this tool with you, however, the whole app is setup manually and pretty inconvenient to replicate for another user. Recently, I have been getting more exposure on infra-as-a-code for dev-ops to replicate environment robustly and quickly, I will propably explore more on the possibility on creating a pipeline that can automatically authenticate and create essential resource for the app for one google account in the future. Do leave a comment and let me know if you want to see this happen. :)
