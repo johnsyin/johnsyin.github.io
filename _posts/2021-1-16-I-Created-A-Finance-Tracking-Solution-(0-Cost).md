@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Created My Finance Tracking Solution (With 0 Cost)
+title: I Created A Finance Tracking Solution (0 Cost)
 ---
 
 Back in March 2020 (yes, during MCO 1.0), I have created my own finance tracking solution, the current main users are my girlfriend and myself.  
