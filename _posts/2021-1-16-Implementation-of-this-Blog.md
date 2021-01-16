@@ -11,4 +11,4 @@ I did make some modification for my personal preference, but that's totally opti
   
 That said, the repo is not maintained anymore tho it does serve its purpose perfectly in a concise manner.
   
-Check out their repo: https://github.com/barryclark/jekyll-now
+[Check out their repo](https://github.com/barryclark/jekyll-now)
