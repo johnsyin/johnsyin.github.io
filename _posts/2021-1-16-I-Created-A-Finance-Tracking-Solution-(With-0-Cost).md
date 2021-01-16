@@ -39,12 +39,12 @@ All of these are tied to the record created date, in case if I am filling a hist
   
 ## B) The sheets
 There are tons of formula that are computed here which I am not going to into details, but basically, there are 5 sheets that made this work  
-1. The "form" sheet  
+1) The "form" sheet  
 - This sheet connects to the form directly and have some columns to compute some essential information (e.g. gross value of stock, mask expenses only, mask incomes only, etc.)    
   
 ![form archives]({{ site.baseurl }}/images/2021-1-16-form-archives.png "form archives")  
   
-2. The "balance" sheet  
+2) The "balance" sheet  
 - This sheet calculates from the form sheet to get the balance value on each asset I have
 - This sheet extract stock codes using regex
 - This sheet convert any non-MYR currency to MYR for me (using rate from google finance)
@@ -52,7 +52,7 @@ There are tons of formula that are computed here which I am not going to into de
   
 ![balance]({{ site.baseurl }}/images/2021-1-16-balance.png "balance")  
   
-3. The "historical asset" sheet  
+3) The "historical asset" sheet  
 - This sheet record my daily summary everyday 
   - My net buy position
   - My net worth
@@ -64,12 +64,12 @@ There are tons of formula that are computed here which I am not going to into de
   
 ![historical asset]({{ site.baseurl }}/images/2021-1-16-historical-asset.png "historical asset")  
   
-4. The "scraper" sheet  
+4) The "scraper" sheet  
 - Scraper helps me to scrape all indices.  
   
 ![scraper]({{ site.baseurl }}/images/2021-1-16-scraper.png "scraper")  
   
-5. The "history brokerage" sheet  
+5) The "history brokerage" sheet  
 - Since brokerage can be abit complex to calculate and each broker can implement at a different rate, I have created a dedicated sheet to compute them. It's also for my convenience to see how much I have paid the broker.  
   
 ![history brokerage]({{ site.baseurl }}/images/2021-1-16-history-brokerage.png "history brokerage")    
