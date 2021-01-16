@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implementating This Blog
+title: Implementing This Blog
 ---
 
 The implementation of this blog is simple. I utilized Github Pages to host a static page, and the static page is generated using Jekyll.  
