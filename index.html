@@ -9,6 +9,13 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        <!-- {{ post.content | markdownify | strip_html | truncatewords: 50 }} -->
+        {{ post.content | strip_html | truncatewords: 50 }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 		<span class="reading-time" title="Estimated read time">
 		  {% assign words = post.content | number_of_words %}
 		  {% if words < 360 %}
@@ -17,13 +24,6 @@ layout: default
 		    {{ words | divided_by:180 }} minutes read
 		  {% endif %}
 		</span>
-
-      <div class="entry">
-        <!-- {{ post.content | markdownify | strip_html | truncatewords: 50 }} -->
-        {{ post.content | strip_html | truncatewords: 50 }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
