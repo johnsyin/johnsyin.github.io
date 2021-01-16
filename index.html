@@ -16,6 +16,11 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
+	  <div class="date">
+	    {{ page.date | date: "%B %e, %Y" }}
+	  </div>
+
 		<!-- <span class="reading-time" title="Estimated read time"> -->
 		  {% assign words = post.content | number_of_words %}
 		  {% if words < 360 %}
@@ -24,6 +29,7 @@ layout: default
 		    <p class="reading-time">{{ words | divided_by:180 }} minutes read</p>
 		  {% endif %}
 		<!-- </span> -->
+		
     </article>
   {% endfor %}
 </div>
