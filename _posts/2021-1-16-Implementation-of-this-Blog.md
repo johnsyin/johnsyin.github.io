@@ -3,7 +3,7 @@ layout: post
 title: Implementation of this Blog
 ---
 
-The implementation of this blog is fairly simple.  
+The implementation of this blog is fairly simple. I utilized Github Pages to host a static page, and the static page is generated using Jekyll.  
   
 First, fork a repo called [jekyll now](https://github.com/barryclark/jekyll-now) on github.  
   
