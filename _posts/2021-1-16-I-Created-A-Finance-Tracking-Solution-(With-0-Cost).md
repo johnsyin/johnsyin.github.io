@@ -59,7 +59,7 @@ There are tons of formula that are computed here which I am not going to into de
   - My portfolio holding value
   - Dividend
   - My return
-  - Index (KLCI, )
+  - Index (KLCI, NASDAQ, etc.)
   - etc.
   
 ![historical asset]({{ site.baseurl }}/images/2021-1-16-historical-asset.png "historical asset")  
