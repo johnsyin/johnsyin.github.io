@@ -121,11 +121,6 @@ img {
   text-align:right;
 }
 
-.reading-time {
-  color: $gray;
-  text-align:right;
-}
-
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -282,6 +277,11 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+}
+
+.reading-time {
+  color: $gray;
+  text-align:right;
 }
 
 footer {
