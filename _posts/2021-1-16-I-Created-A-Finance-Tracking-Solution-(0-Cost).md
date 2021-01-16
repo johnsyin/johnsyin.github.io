@@ -72,7 +72,7 @@ There are tons of formula that are computed here which I am not going to into de
 5. The "history brokerage" sheet  
 - Since brokerage can be abit complex to calculate and each broker can implement at a different rate, I have created a dedicated sheet to compute them. It's also for my convenience to see how much I have paid the broker.  
   
-![history brokerage]({{ site.baseurl }}/images/2021-1-16-history-brokerage.png "history brokerage") {: height="100px" width="auto"}  
+![history brokerage]({{ site.baseurl }}/images/2021-1-16-history-brokerage.png "history brokerage") {: height="1000px" width="auto"} .  
   
 ## C) Google App Script
 The script is scheduled to run for 2 purposes.  
