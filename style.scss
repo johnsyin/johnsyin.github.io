@@ -121,6 +121,12 @@ img {
   text-align:right;
 }
 
+.reading-time {
+  color: $gray;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
